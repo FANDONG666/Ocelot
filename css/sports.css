@@ -1,0 +1,184 @@
+
+*{margin:0;padding:0;list-style-type:none;}
+
+a,img{border:0;}
+
+body{font:12px/180% Arial, Helvetica, sans-serif, "新宋体";}
+
+/* container */
+
+#container{width:1200px;margin:0 auto;padding-top: 30px;}
+
+#container ul{width:280px;list-style:none;float:left;margin-right:26px;}
+
+#container ul li{
+
+    margin-bottom:20px;
+
+    background-color:#fff;
+
+    background-image:linear-gradient(to bottom, #FFFFFF, #E6E6E6);
+
+    background-repeat:repeat-x;
+
+}
+
+#container ul li img{width:260px;margin-left: 10px;margin-top: 15px;}
+
+.water_user{color:#000;height: 36px;line-height: 36px;font-size: 16px;background:#fff;margin-left: 15px;}
+
+.water_option{background:#fff;height: 76px;position: relative;width: 100%;}
+
+
+
+.water_option .option_item{float:left;}
+
+.water_option .option_item{color:#bdbdbd;text-decoration:none;font-size: 16px;margin-left: 15px;}
+
+.water_option .option_item:hover{ text-decoration:underline;}
+
+.water_option .split{position: absolute;right: 10px;bottom: 20px;}
+
+
+
+#loadMeinvMOre{height:50px;line-height:50px;color:#fff;text-align:center;background:#FF7C1C;display:block;clear:both;text-decoration:none;margin: 0 auto 0px;}
+
+#loadMeinvMOre:hover{ background:#ccc;color:#fff;}
+#container ul li .split img {
+    width: 20px;
+}
+#container{background: #f4f4f4;}
+.container{width: 100%;background: #f4f4f4;}
+
+.water_pic{width: 280px;overflow: hidden;background: #FFFFFF;}
+.water_pic a img:hover{-webkit-animation:fadein ease-in-out 1s;-moz-animation:fadein ease-in-out 1s;-ms-animation:fadein ease-in-out 1s;-o-animation:fadein ease-in-out 1s}
+.ani{-webkit-animation:scale 1s ease-in-out;-moz-animation:scale 1s ease-in-out;-ms-animation:scale 1s ease-in-out;-o-animation:scale 1s ease-in-out}
+@-webkit-keyframes fadein{
+    0%{opacity:1}
+    20%{opacity:0.7}
+    100%{opacity:1}
+}
+@-moz-keyframes fadein{
+    0%{opacity:1}
+    20%{opacity:0.7}
+    100%{opacity:1}
+}
+@-ms-keyframes fadein{
+    0%{opacity:1}
+    20%{opacity:0.7}
+    100%{opacity:1}
+}
+@-o-keyframes fadein{
+    0%{opacity:1}
+    20%{opacity:0.7}
+    100%{opacity:1}
+}
+@-webkit-keyframes height{
+    0%{-webkit-transform:scale(-1,1)}
+    50%{-webkit-transform:scale(1,1)}
+
+}
+@-moz-keyframes scale{
+    from{-moz-transform:scale(-1,1)}
+    to{-moz-transform:scale(1,1)}
+}
+@-ms-keyframes scale{
+    from{-ms-transform:scale(-1,1)}
+    to{-ms-transform:scale(1,1)}
+}
+@-o-keyframes scale{
+    from{-o-transform:scale(-1,1)}
+    to{-o-transform:scale(1,1)}
+}
+
+.water_pic img:hover {
+	-webkit-transform-origin: scale(0.95) 1.2s;
+	-ms-transform-origin: scale(0.95);
+	transform-origin: scale(0.95);
+	transform: scale(0.95);
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
+}
+
+.water_pic img{
+	-webkit-transform-origin: scale(1);
+	-ms-transform-origin: scale(1);
+	transform-origin: scale(1);
+	transform: scale(1);
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
+}
+/**/
+
+
+.col li{
+    -webkit-animation:fadein-o 2s linear;
+    -moz-animation:fadein-o 2s linear;
+    -ms-animation:fadein-o 2s linear;
+    -o-animation:fadein-o 2s linear
+     
+}
+@-webkit-keyframes fadein{
+    0%{opacity:1}
+    20%{opacity:0.7}
+    100%{opacity:1}
+}
+@-moz-keyframes fadein{
+    0%{opacity:1}
+    20%{opacity:0.7}
+    100%{opacity:1}
+}
+@-ms-keyframes fadein{
+    0%{opacity:1}
+    20%{opacity:0.7}
+    100%{opacity:1}
+}
+@-o-keyframes fadein{
+    0%{opacity:1}
+    20%{opacity:0.7}
+    100%{opacity:1}
+}
+
+
+@-webkit-keyframes fadein-o{
+    0%{opacity:0}
+    100%{opacity:1}
+}
+@-moz-keyframes fadein-o{
+     0%{opacity:0}
+    100%{opacity:1}
+}
+@-ms-keyframes fadein-o{
+    0%{opacity:0}
+    100%{opacity:1}
+}
+@-o-keyframes fadein-o{
+     0%{opacity:0}
+    100%{opacity:1}
+}
+
+
+@-webkit-keyframes scale{
+    0%{-webkit-transform:scale(-1,1)}
+    50%{-webkit-transform:scale(1,1)}
+}
+@-moz-keyframes scale{
+    from{-moz-transform:scale(-1,1)}
+    to{-moz-transform:scale(1,1)}
+}
+@-ms-keyframes scale{
+    from{-ms-transform:scale(-1,1)}
+    to{-ms-transform:scale(1,1)}
+}
+@-o-keyframes scale{
+    from{-o-transform:scale(-1,1)}
+    to{-o-transform:scale(1,1)}
+}
+.maskOut{width: 100%;height: 100%;background: rgba(0,0,0,0.7);z-index: 99999;position: fixed;top: 0;left: 0;overflow: hidden;display: none;}
+.mask{width:580px;height: 440px;position:fixed;left:50%;top:50%;margin-left:-290px;margin-top:-220px;}
+.maskIn{width: 540px;height: 388px;background: #fff;border: 3px solid rgba(0,0,0,0.3);margin-top: 40px;}
+

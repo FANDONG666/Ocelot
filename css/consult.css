@@ -1,0 +1,70 @@
+.baner_wra{height: 360px;width: 100%;background: #FFFFFF;}
+.banner{height: 360px;width: 1200px;margin: 0 auto;}
+.bnner_left{position: relative;width: 890px;height: 360px;float: left;}
+.bnner_left img{height: 100%;width: 100%;}
+.bnner_left p{background: rgba(7,7,10,0.6);width: 100%;height: 80px;position: absolute;bottom: 0;left: 0;}
+.bnner_left p span{color: #FFFFFF;height: 42px;line-height: 52px;font-size: 14px;display: block;text-indent: 3em;}
+.bnner_left p em{color: #FFFFFF;display: block;font-size: 14px;text-indent: 3em;line-height: 20px;}
+.banner_rigth{height: 360px;width: 310px;float: left;background: #5b595a;}
+.banner_rigth li{height: 70px;background: #5b595a;padding: 10px;width: 290px;}
+.banner_rigth li img{float: left;height: 70px;}
+.banner_rigth li p{float: left;line-height: 30px;padding: 5px 0;height: 60px;font-size: 12px;color: #FFFFFF;width: 180px;margin-left: 10px;overflow: hidden;}
+.banner_rigth li:hover{background: #ff7c1c;}
+.banner_rigth .cread{background: #ff7c1c;}
+.nav_w{width: 100%;height: 40px;margin-top: 30px;background: #FFFFFF;}
+.nav_w .nav{width: 1200px;height: 40px;background: #ededed;margin: 0 auto;}
+.nav li{float: left;width: 100px;height: 35px;margin-top: 5px;text-align: center;line-height: 35px;margin-right: 10px;}
+.nav li:first-child{margin-left: 20px;}
+.nav li a{color: #000;font-size: 14px;}
+.nav .cread{background: #FF7C1C;}
+.nav .cread a{color: #FFFFFF;}
+.nav li:hover{background: #FF7C1C;}
+.nav li a{color: #FFFFFF;}
+.cont_wra{width: 100%;background: #FFFFFF;}
+.cont{width: 1200px;margin: 0 auto;}
+.cont ul{width: 1200px;}
+.cont ul li{height: 270px;border-bottom: 1px solid#888888;padding: 60px 0;}
+.conim_l{height: 270px;width: 390px;}
+.game_top{float: left;height: 270px;width: 390px;margin-right: 35px;overflow: hidden;}
+.cont li .con_r{float: left;height: 270px;width: 700px;position: relative;}
+.cont .con_r h2{font-size: 28px;font-weight: bold;color: #000000;height: 60px;line-height: 60px;overflow: hidden;}
+.cont .con_r p{line-height: 30px;height: 90px;font-size: 14px;color: #999;margin-top: 50px;overflow: hidden;}
+.cont .con_r h3{position: absolute;bottom: 8px;height: 40px;left: 0;width: 100%;}
+.cont .con_r h3 span{float: left;color: #FF7C1C;font-size: 14px;height: 40px;line-height: 40px;}
+.cont .con_r h3 a{float: right;color: #FF7C1C;font-size: 14px;height: 38px;line-height: 38px;width: 100px;text-align: center;border: 1px solid #FF7C1C;border-radius: 5px;}
+.page{height: 124px;background: #FFFFFF;width: 224px;font-size: 12px;margin-left: 970px;}
+.page span{margin-top: 50px;height: 30px;padding: 0 10px;display: inline-block;background: #FF7C1C;line-height: 30px;color: #FFFFFF;margin-right: 5px;cursor: pointer;}
+.page em{margin-top: 50px;height: 30px;padding: 0 10px;display: inline-block;background: #FF7C1C;line-height: 30px;color: #FFFFFF;margin-right: 5px;cursor: pointer;}
+.page .cread{background: #666666;color: #FF7C1C;}
+/**/
+.cont .con_r a:hover{
+	background: #ff7800;
+	color: #fff;
+}
+
+
+.conim_l:hover {
+	-webkit-transform-origin: scale(1.1) 1.2s;
+	-ms-transform-origin: scale(1.1);
+	transform-origin: scale(1.1);
+	transform: scale(1.1);
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
+}
+
+.conim_l {
+	-webkit-transform-origin: scale(1);
+	-ms-transform-origin: scale(1);
+	transform-origin: scale(1);
+	transform: scale(1);
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
+}
+.con_r h2:hover{color: #ff7800;}
+.con_r p:hover{color: #ff7800;}
+.ban{display: none;}
+.ban1{display: block;}

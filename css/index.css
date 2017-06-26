@@ -1,0 +1,401 @@
+.swiper-container1 {
+	width: 100%;
+	overflow: hidden;
+	height: 635px;
+}
+
+.swiper-container1 .swiper-wrapper .swiper-slide {
+	width: 100%;
+	height: 635px;
+}
+
+.swiper-container1 .swiper-slide img {
+	width: 100%;
+	height: 635px;
+}
+
+.ift_wra {
+	height: 555px;
+	width: 100%;
+	background: #FFFFFF;
+}
+
+.ift {
+	height: 555px;
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.ift_h {
+	padding-top: 62px;
+	height: 70px;
+}
+
+.ift_h span {
+	float: left;
+	height: 45px;
+	width: 8px;
+	background: #ffbb34;
+	margin-right: 10px;
+}
+
+.ift_h em {
+	float: left;
+	font-size: 40px;
+	color: #000000;
+	font-weight: bold;
+	line-height: 40px;
+}
+
+.title {
+	font-size: 45px;
+	font-weight: bold;
+	color: #ff7c1c;
+	margin-bottom: 30px;
+}
+
+.swiper-container2 {
+	height: 270px;
+	width: 1200px;
+	overflow: hidden;
+}
+
+.ift_l {
+	height: 270px;
+	width: 390px;
+}
+
+.game_top {
+	float: left;
+	margin-left: 88px;
+	height: 270px;
+	width: 390px;
+	overflow: hidden;
+}
+
+.ift_r {
+	float: left;
+	margin-left: 40px;
+	width: 570px;
+}
+
+.ift_r h2 {
+	color: #000000;
+	font-size: 25px;
+	height: 102px;
+	overflow: hidden;
+	line-height: 56px;
+}
+
+.ift_r h2:hover {
+	color: #ff7c1c;
+}
+
+.ift_r p {
+	color: #8b8b8b;
+	font-size: 14px;
+	line-height: 28px;
+	margin-top: 30px;
+	height: 56px;
+	overflow: hidden;
+}
+
+.ift_r p:hover {
+	color: #ff7c1c;
+}
+
+.ift_r h3 {
+	height: 40px;
+	margin-top: 40px;
+}
+
+.ift_r h3 span {
+	float: left;
+	color: #ff8023;
+	font-size: 14px;
+	line-height: 40px;
+}
+
+.ift_r h3 a {
+	float: right;
+	height: 38px;
+	border: 1px solid #ff8023;
+	width: 120px;
+	text-align: center;
+	line-height: 38px;
+	font-size: 14px;
+	color: #ff8023;
+	border-radius: 5px;
+}
+
+.ift_r h3 a:hover {
+	background: #ff7c1c;
+	color: #FFFFFF;
+}
+
+
+/*about*/
+
+.about_wra {
+	height: 780px;
+	width: 100%;
+	background: url(../img/about.png) no-repeat center center;
+}
+
+.about {
+	height: 780px;
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.about ul {
+	height: 240px;
+	width: 1200px;
+}
+
+.about ul li {
+	height: 240px;
+	width: 240px;
+	margin-right: 80px;
+	float: left;
+}
+
+.about ul .cread {
+	margin-right: 0;
+}
+
+.about ul img {
+	height: 100%;
+	width: 100%;
+}
+
+.about_con {
+	height: 180px;
+	line-height: 45px;
+	font-size: 24px;
+	color: #616161;
+	overflow: hidden;
+	margin-top: 50px;
+}
+
+
+/**/
+
+.bg_wra {
+	height: 720px;
+	width: 100%;
+	background: #FFFFFF;
+}
+
+.wra {
+	width: 1200px;
+	height: 250px;
+	margin: 0 auto;
+}
+
+.swiper-container3 {
+	height: 420px;
+	margin: 0 auto;
+	width: 1802px;
+}
+
+.swiper-container3 .bg_d {
+	border: 2px solid #d5d5d5;
+	width: 278px;
+}
+
+body .swiper-container3 .cread {
+	border: 2px solid #ff7c1c;
+}
+
+.swiper-container3 .swiper-slide {
+	height: 370px;
+	width: 282px;
+	margin-right: 22px;
+	margin-top: 50px;
+}
+
+.swiper-container3 .swiper-slide img {
+	width: 100%;
+	height: 190px;
+	
+}
+.swiper-container3 .swiper-slide .bg_sh{height: 85px;width: 100%;}
+
+.bg_d div {
+	height: 57px;
+	position: relative;
+	width: 100%;
+	background: #eeeeee;
+}
+
+.bg_d div P {
+	color: #626262;
+	font-size: 12px;
+	line-height: 18px;
+	padding: 0 15px;
+	position: absolute;
+	bottom: 15px;
+	height: 36px;
+}
+
+.bg_d div span {
+	float: right;
+	color: #ff7c1c;
+	font-size: 14px;
+	float: right;
+	position: absolute;
+	right: 15px;
+	bottom: 10px;
+}
+
+
+/**/
+
+.swiper-container4 {
+	margin: 15px auto 0;
+	width: 1802px;
+	height: 55px;
+}
+
+.swiper-container4 .swiper-slide {
+	height: 301px;
+	width: 282px;
+	margin-right: 22px;
+	height: 55px;
+}
+
+.swiper-container4 img {
+	height: 100%;
+	width: 100%;
+}
+
+
+/**/
+
+.swiper-container .swiper-pagination-bullet {
+	background: #c9c9c9;
+	opacity: 1;
+}
+
+.swiper-container .swiper-pagination-bullet-active {
+	background: #ff9212;
+}
+
+
+/*.swiper-container3 .swiper-slide:hover{margin-top: 20px;}
+.swiper-container3 .swiper-slide:hover div{height: 87px;}
+*/
+
+.left1 {
+	height: 270px;
+	width: 55px;
+	position: absolute;
+	left: 0;
+	top: 0;
+	background: #e1e1e1;
+	z-index: 999;
+}
+
+.rigtht1 {
+	height: 270px;
+	width: 55px;
+	position: absolute;
+	right: 0;
+	top: 0;
+	background: #e1e1e1;
+	z-index: 999;
+}
+
+.left1:hover {
+	background: #ff7c1c;
+}
+
+.rigtht1:hover {
+	background: #ff7c1c;
+}
+
+
+/*动态效果的添加*/
+
+.ift_l:hover {
+	-webkit-transform-origin: scale(1.1) 1.2s;
+	-ms-transform-origin: scale(1.1);
+	transform-origin: scale(1.1);
+	transform: scale(1.1);
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
+}
+
+.ift_l {
+	-webkit-transform-origin: scale(1);
+	-ms-transform-origin: scale(1);
+	transform-origin: scale(1);
+	transform: scale(1);
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
+}
+
+.about li img {
+	-webkit-transition: -webkit-transform 0.2s ease-out;
+	-moz-transition: -moz-transform 0.2s ease-out;
+	-o-transition: -o-transform 0.2s ease-out;
+	-ms-transition: -ms-transform 0.2s ease-out;
+	transition: 1s;
+}
+
+.about li img:hover {
+	-webkit-transform: rotateZ(360deg);
+	-moz-transform: rotateZ(360deg);
+	-o-transform: rotateZ(360deg);
+	-ms-transform: rotateZ(360deg);
+	transform: rotateZ(360deg);
+}
+
+.swiper-container3 .swiper-slide {
+	-webkit-transition: -webkit-transform 0.5s ease-out;
+	-moz-transition: -moz-transform 0.5s ease-out;
+	-o-transition: -o-transform 0.5s ease-out;
+	-ms-transition: -ms-transform 0.5s ease-out;
+	margin-top: 50px;
+	transition: 0.5s;
+	
+}
+
+.swiper-container3 .swiper-slide:hover {
+	margin-top: 20px;
+	
+}
+.swiper-container3 .swiper-slide .bg_sh{
+	-webkit-transition: -webkit-transform 0.5s ease-out;
+	-moz-transition: -moz-transform 0.5s ease-out;
+	-o-transition: -o-transform 0.5s ease-out;
+	-ms-transition: -ms-transform 0.5s ease-out;
+	margin-top: 20px;
+	transition: 0.5s;
+	
+}
+.swiper-container3 .swiper-slide:hover .bg_sh{
+	margin-top: 80px;
+}
+.swiper-container3 .swiper-slide .bg_d div {
+	-webkit-transition: -webkit-transform 0.5s ease-out;
+	-moz-transition: -moz-transform 0.5s ease-out;
+	-o-transition: -o-transform 0.5s ease-out;
+	-ms-transition: -ms-transform 0.5s ease-out;
+	transition: 0.5s;
+	height: 57px;
+	
+}
+
+
+.swiper-container3 .swiper-slide:hover .bg_d{
+	border: 2px solid #ff7c1c;
+}
+.swiper-container3 .swiper-slide:hover .bg_d div{
+	background: #fff;
+}

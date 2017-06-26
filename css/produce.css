@@ -1,0 +1,90 @@
+.long_wrap{height: 550px;width: 100%;background: #1381d0;}
+.long{position: relative;height: 550px;width: 1200px;margin: 0 auto;}
+.long .long_l{position: absolute;top: 10px;left: 0;height: 605px;}
+.long .long_r{position: absolute;top: 10px;right: 215px;height: 550px;width: 340px;}
+.long_r h3{margin-top: 125px;font-size: 24px;border-bottom: 1px dashed #FFFFFF;width: 320px;padding-bottom: 15px;font-weight: bold;}
+.long_r h3 span{color: #FFFFFF;display:inline-block;width: 145px;text-align:  center;}
+.long_r h3 em{color: #FFFFFF;}
+.log_game{height: 145px;margin-top: 35px;margin-left: 104px;}
+.long_r h4{width: 170px;margin-top: 25px;margin-left: 75px;font-size: 20px;}
+.long_r h4 img{float: left;}
+.long_r h4 a{float: right;font-size: 18px;margin-top: 8px;}
+.long_r h4 a:hover{color: #ff7800;}
+/*22222222222222222222*/
+.girl_wrap{height: 545px;width: 100%;background: #febf02;}
+.girl{position: relative;height: 545px;width: 1200px;margin: 0 auto;}
+.girl .girl_r{position: absolute;top: -125px;right:0 ;height: 670px;}
+.girl .girl_l{position: absolute;top: 0;left: 430px;height: 545px;width: 340px;}
+.girl_l h3{margin-top:  80px;font-size: 24px;border-bottom: 1px dashed #FFFFFF;width: 330px;padding-bottom: 15px;margin-bottom: 20px;font-weight: bold;}
+.girl_l h3 span{color: #FFFFFF;display:inline-block;width: 145px;text-align:  center;}
+.girl_l h3 em{color: #FFFFFF;}
+.girl_l p{line-height: 48px;font-size: 18px;color: #fff;height: 48px;text-align: center;}
+.girl_l h4{width: 170px;margin-top: 25px;margin-left: 75px;font-size: 20px;}
+.girl_l h4 img{float: left;}
+.girl_l h4 a{float: right;font-size: 18px;margin-top: 8px;}
+.girl_l h4 a:hover{color: #ff7800;}
+/*3333333333333333333333*/
+.mermaid_wrap{height: 545px;width: 100%;background: #4046bb;}
+.mermaid{position: relative;height: 545px;width: 1200px;margin: 0 auto;}
+.mermaid_wrap .mermaid_l{position: absolute;top: -207px;left:0 ;height:810px;}
+.mermaid_wrap .mermaid_r{position: absolute;top: 0;right: 235px;height: 545px;width: 340px;}
+.mermaid h3{margin-top:  70px;font-size: 24px;border-bottom: 1px dashed #FFFFFF;width: 320px;padding-bottom: 15px;margin-bottom: 20px;font-weight: bold;}
+.mermaid h3 span{color: #FFFFFF;display:inline-block;width: 145px;text-align:  center;}
+.mermaid h3 em{color: #FFFFFF;}
+.mermaid p{line-height: 48px;font-size: 18px;color: #fff;height: 48px;text-align: center;}
+.mermaid h4{width: 170px;font-size: 18px;margin-top: 25px;margin-left: 75px;}
+.mermaid h4 img{float: left;}
+.mermaid h4 a{float: right;font-size: 18px;margin-top: 8px;}
+.mermaid h4 a:hover{color: #ff7800;}
+/*4444444444444444444444444*/
+.jian_wrap{height: 545px;width: 100%;background: #dd6134;}
+.jian{position: relative;height: 545px;width: 1200px;margin: 0 auto;}
+.jian .jian_r{position: absolute;top: -125px;right:-50px ;height:430px;}
+.jian .jian_l{position: absolute;top: 0;left: 114px;height: 545px;width: 580px;}
+.jian_l h3{margin-top:  80px;font-size: 24px;border-bottom: 1px dashed #FFFFFF;width: 580px;font-weight: bold;padding-bottom: 15px;margin-bottom: 20px;text-align: center;}
+.jian_l h3 span{color: #FFFFFF;display:inline-block;width: 170px;text-align:  center;}
+.jian_l h3 em{color: #FFFFFF;}
+.jian_l p{line-height: 48px;font-size: 18px;color: #fff;height: 48px;text-align: center;}
+.jian_l h4{width: 170px;font-size: 18px;margin-top: 25px;margin-left: 200px;}
+.jian_l h4 img{float: left;}
+.jian_l h4 a{float: right;font-size: 18px;margin-top: 5px;}
+.jian_l h4 a:hover{color: #ff7800;}
+/*5555555555555555555*/
+.money_wrap{height: 505px;width: 100%;background: #8cc447;}
+.money{position: relative;height: 505px;width: 1200px;margin: 0 auto;}
+.money_wrap .money_l{position: absolute;top: -123px;left:0 ;height:610px;}
+.money_wrap .money_r{position: absolute;top: 0;right: 200px;height: 505px;width: 325px;}
+.money h3{margin-top:  70px;font-size: 24px;border-bottom: 1px dashed #FFFFFF;font-weight: bold;width: 325px;padding-bottom: 15px;margin-bottom: 20px;}
+.money h3 span{color: #FFFFFF;display:inline-block;width: 120px;text-align:  center;}
+.money h3 em{color: #FFFFFF;}
+.money p{line-height: 48px;font-size: 18px;color: #fff;height: 48px;text-align: center;}
+.money h4{width: 170px;font-size: 18px;margin-top: 25px;margin-left: 75px;}
+.money h4 img{float: left;}
+.money h4 a{float: right;font-size: 18px;margin-top: 5px;}
+.money h4 a:hover{color: #ff7800;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
